@@ -91,7 +91,7 @@ Built on MIMIC-IV clinical data, PostgreSQL + pgvector, a biomedical embedding m
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/nimowhyca/Secure-EHR-Insight-Clinical-Validator.git
+git clone https://github.com/adeways2000/Secure-EHR-Insight-Clinical-Validator.git
 cd Secure-EHR-Insight-Clinical-Validator
 
 # with uv (recommended)
